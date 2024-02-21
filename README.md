@@ -2,6 +2,9 @@
 
 base template for backend project setup using nestjs graphql and postgres with typeorm
 
+- typeorm setup
+- basic example of query and mutation using a table connected to example DB
+
 ## Installation
 
 ```bash
